@@ -1,4 +1,4 @@
-伝統的な日本っぽいアイコンウェブフォント
+伝統的な日本っぽいアイコンフォント
 ========================================
 
 プレビューは[こちら](http://hanhan26moya.web.fc2.com/fonts/japanese_icon/ "Japanese Typical Icons")
